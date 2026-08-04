@@ -37,5 +37,18 @@
     "status": "active",
     "createdAt": "2026-08-03T10:00:41.996Z",
     "updatedAt": "2026-08-03T10:00:41.998Z"
+  },
+  {
+    "id": "b63c49c4-c7c2-4044-a020-b5abb60918e2",
+    "name": "tes",
+    "category": "1231",
+    "contact": "324",
+    "phone": "344",
+    "email": "",
+    "address": "2313",
+    "remark": "4123",
+    "status": "active",
+    "createdAt": "2026-08-04T02:18:10.550Z",
+    "updatedAt": "2026-08-04T02:18:10.550Z"
   }
 ]
